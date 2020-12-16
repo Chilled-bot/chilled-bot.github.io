@@ -1,2 +1,2 @@
-# chilled-bot.github.io
+# [Chilledbot.tk](https://chilledbot.tk)
 Repositorie of the ChilledBot website
