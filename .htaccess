@@ -1,4 +1,4 @@
-ErrorDocument 404       https://chilledbot.tk/404.html
+ErrorDocument 404       https://chilledbot.xyz/404.html
 
 RewriteEngine on
 
