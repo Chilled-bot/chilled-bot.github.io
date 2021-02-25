@@ -1,6 +1,21 @@
+/*Partner*/
 .kingperf {
   transition: .2s
 }
 .kingperf:hover {
     transform: scale(1.1)translateY(-5px)rotate(-5deg);
+}
+
+/*Scrollbar*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+ 
+}
+::-webkit-scrollbar-thumb {
+  background: grey; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: darkgrey; 
 }
