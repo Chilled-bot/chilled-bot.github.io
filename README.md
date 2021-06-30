@@ -1,2 +1,2 @@
-# [Chilledbot.xyz](https://chilledbot.xyz)
+# [ChilledBot.xyz](https://chilledbot.xyz)
 Repository of the ChilledBot website
